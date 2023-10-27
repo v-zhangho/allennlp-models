@@ -1,6 +1,6 @@
 allennlp[all] @ git+https://github.com/allenai/allennlp.git@main
 
-torch>=1.7.0
+torch>=1.13.1
 
 # For structured prediction.
 conllu>=4.4.2
