@@ -1,5 +1,5 @@
 #allennlp[all] @ git+https://github.com/allenai/allennlp.git@main
-
+allennlp[all] @ git+https://github.com/ranjita-naik/allennlp-1.git@main
 torch>=1.13.1
 
 # For structured prediction.
